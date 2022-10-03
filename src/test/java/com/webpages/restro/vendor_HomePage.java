@@ -20,5 +20,11 @@ public class vendor_HomePage {
     }
 
 
+    @Test
+
+    public void testing(){
+
+    }
+
 
 }
